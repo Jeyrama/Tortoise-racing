@@ -26,3 +26,6 @@ Hints for people who don't know how to convert to hours, minutes, seconds:
   Think of calculation by hand using only integers (in your code use or simulate integer division)
   or Google: "convert decimal time to hours minutes seconds".
 */
+
+
+// Solution
